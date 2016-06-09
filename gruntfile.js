@@ -13,7 +13,7 @@ module.exports = function(grunt) {
     compass: {
       dev: {
         options: {
-          config: 'config.rb'
+          config: 'compass_config.rb'
         } //options
       } //dev
     }, //compass
